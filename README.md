@@ -1,4 +1,4 @@
-# workshop-github
+# GitHub Workshop by Jorge Hidalgo and Pablo Nuñez
 
 Workshop about GitHub: working with repositories, issues, pull requests, codespaces and actions.
 
