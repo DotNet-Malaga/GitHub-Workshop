@@ -1,5 +1,7 @@
 # GitHub Workshop by Jorge Hidalgo and Pablo Nuñez
 
+![Presentation image](https://pbs.twimg.com/media/GdEgZNWXIAAMLsO?format=jpg&name=large)
+
 Workshop about GitHub: working with repositories, issues, pull requests, codespaces and actions.
 
 ## Introduction
